@@ -14,4 +14,7 @@ Sinta-se à vontade para explorar meus projetos, contribuições e acompanhar mi
 [![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=manukuiawa&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=manukuiawa&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+![Profile views](https://komarev.com/ghpvc/?username=manukuiawa&color=ff0077)
+
+
 
