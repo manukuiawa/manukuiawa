@@ -4,7 +4,7 @@ Olá, eu me chamo Manuella! 👨‍💻 Bem-vindo ao meu perfil do GitHub. Aqui 
 
 ## Sobre Mim
 
-- 🌱 Atualmente estou aprendendo Front-end.
+- 🌱 Atualmente estou aprendendo React e Angular.
 - 📫 Como me alcançar: Email -> manuellakuiawa@gmail.com | Instagram -> manu_kuiawa
 
 ## Vamos Conectar!
