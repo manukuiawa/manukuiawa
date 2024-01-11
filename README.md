@@ -12,7 +12,7 @@ Olá, eu me chamo Manuella! 👨‍💻 Bem-vindo ao meu perfil do GitHub. Aqui 
 Sinta-se à vontade para explorar meus projetos, contribuições e acompanhar minha jornada de aprendizado. Se você está interessado em colaborar, trocar ideias ou apenas bater um papo, não hesite em entrar em contato comigo. Vamos crescer juntos! 🚀
 
 [![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=manukuiawa&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manukuiawa&hide=javascript,html&bg_color=000000&card_width=300)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manukuiawa&hide=javascript,html&bg_color=#191970&card_width=300)
 
 
 
