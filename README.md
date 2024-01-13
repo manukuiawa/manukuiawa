@@ -36,4 +36,3 @@ Sinta-se à vontade para explorar meus projetos, contribuições e acompanhar mi
 ![Profile views](https://komarev.com/ghpvc/?username=manukuiawa&color=ff0077)
 
 
-![snake gif](https://github.com/manukuiawa/manukuiawa/blob/output/github-contribution-grid-snake.svg)
