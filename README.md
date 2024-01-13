@@ -4,10 +4,11 @@ Olá, eu me chamo Manuella! 👨‍💻 Bem-vindo ao meu perfil do GitHub. Aqui 
 
 ## Sobre Mim
 
-- 🌱 Atualmente estou aprendendo React e Angular.
-- 📫 Como me alcançar: Email -> manuellakuiawa@gmail.com | Instagram -> manu_kuiawa
+- 👩‍💻 Desenvolvedora Front-End.
+- 🗺️ Apaixonada por tecnologia desde os 15 anos.
+- 🌐 Atualmente estou aprendendo React e Angular.
 
-## Linguagens e Tecnologias que já tive contato ⌨️
+## Linguagens e Tecnologias que já tive contato 
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
 [![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -29,8 +30,8 @@ Olá, eu me chamo Manuella! 👨‍💻 Bem-vindo ao meu perfil do GitHub. Aqui 
 
 Sinta-se à vontade para explorar meus projetos, contribuições e acompanhar minha jornada de aprendizado. Se você está interessado em colaborar, trocar ideias ou apenas bater um papo, não hesite em entrar em contato comigo. Vamos crescer juntos! 🚀
 
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=manukuiawa&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manukuiawa&hide=javascript,html&bg_color=ff007f&card_width=300&text_color=ffffff&title_color=ffffff)
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=manukuiawa&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)   
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manukuiawa&hide=javascript,html&bg_color=d6909b&card_width=300&text_color=ffffff&title_color=ffffff)
 
 
 ![Profile views](https://komarev.com/ghpvc/?username=manukuiawa&color=ff0077)
