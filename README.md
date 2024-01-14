@@ -6,7 +6,7 @@ Olá, eu me chamo Manuella! 👨‍💻 Bem-vindo ao meu perfil do GitHub. Aqui 
 
 - 👩‍💻 Desenvolvedora Front-End.
 - 🗺️ Apaixonada por tecnologia desde os 15 anos.
-- 🌐 Atualmente estou aprendendo React e Angular.
+- 🌐 Atualmente estou aprendendo Javascript, React e Angular.
 
 ## Linguagens e Tecnologias que já tive contato 
 
