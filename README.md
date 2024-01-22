@@ -1,4 +1,4 @@
-# Bem-vindo ao meu Perfil! 👋
+# Bem-vindo a meu Perfil! 👋
 
 Olá, eu me chamo Manuella! 👨‍💻 Bem-vindo ao meu perfil do GitHub. Aqui você encontrará uma coleção de projetos, contribuições e ideias que refletem minha paixão pela programação e tecnologia. 
 
