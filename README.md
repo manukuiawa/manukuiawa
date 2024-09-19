@@ -6,7 +6,7 @@ Olá, eu me chamo Manuella! 👨‍💻 Bem-vindo ao meu perfil do GitHub. Aqui 
 
 - 👩‍💻 Desenvolvedora Front-End.
 - 🗺️ Apaixonada por tecnologia desde os 15 anos.
-- 🌐 Atualmente estou aprendendo Javascript, React e Angular.
+- 🎓Cursando Ciência da Computação e Designer Gráfico.
 
 ## Linguagens e Tecnologias que já tive contato 
 
@@ -34,5 +34,7 @@ Sinta-se à vontade para explorar meus projetos, contribuições e acompanhar mi
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manukuiawa&hide=javascript,html&bg_color=f17ea1&card_width=300&text_color=ffffff&title_color=ffffff)
 
 ![Profile views](https://komarev.com/ghpvc/?username=manukuiawa&color=ff0077)
+
+![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=<seu-usuario>&hide=html&layout=compact)
 
 
