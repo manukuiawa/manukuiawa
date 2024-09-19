@@ -35,6 +35,5 @@ Sinta-se à vontade para explorar meus projetos, contribuições e acompanhar mi
 
 ![Profile views](https://komarev.com/ghpvc/?username=manukuiawa&color=ff0077)
 
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=<seu-usuario>&hide=html&layout=compact)
 
 
