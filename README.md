@@ -6,7 +6,7 @@ Olá, eu me chamo Manuella! 👨‍💻 Bem-vindo ao meu perfil do GitHub. Aqui 
 
 - 👩‍💻 Desenvolvedora Front-End.
 - 🗺️ Apaixonada por tecnologia desde os 15 anos.
-- 🎓Cursando Ciência da Computação e Designer Gráfico.
+- 🎓Cursando Ciência da Computação 
 
 ## Linguagens e Tecnologias que já tive contato 
 
