@@ -1,12 +1,11 @@
 # Bem-vindo a meu Perfil! 👋
 
-Olá, eu me chamo Manuella! 👨‍💻 Bem-vindo ao meu perfil do GitHub. Aqui você encontrará uma coleção de projetos, contribuições e ideias que refletem minha paixão pela programação e tecnologia. 
+Olá, eu me chamo Manuella! 👨‍💻 Bem-vindo ao meu perfil do GitHub. Aqui você encontrará algusn do meus projetos.
 
 ## Sobre Mim
 
-- 👩‍💻 Desenvolvedora Front-End.
-- 🗺️ Apaixonada por tecnologia desde os 15 anos.
-- 🎓Cursando Ciência da Computação 
+- 👩‍💻 Aprendendo Front-End.
+- 🎓Cursando Ciência da Computação.
 
 ## Linguagens e Tecnologias que já tive contato 
 
@@ -25,10 +24,6 @@ Olá, eu me chamo Manuella! 👨‍💻 Bem-vindo ao meu perfil do GitHub. Aqui 
 [![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)](https://trello.com/)
 [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/)
 
-
-## Vamos Conectar!
-
-Sinta-se à vontade para explorar meus projetos, contribuições e acompanhar minha jornada de aprendizado. Se você está interessado em colaborar, trocar ideias ou apenas bater um papo, não hesite em entrar em contato comigo. Vamos crescer juntos! 🚀
 
 [![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=manukuiawa&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manukuiawa&hide=javascript,html&bg_color=f17ea1&card_width=300&text_color=ffffff&title_color=ffffff)
