@@ -1,6 +1,6 @@
 # Bem-vindo a meu Perfil! 👋
 
-Olá, eu me chamo Manuella! 👨‍💻 Bem-vindo ao meu perfil do GitHub. Aqui você encontrará algusn do meus projetos.
+Olá, eu me chamo Manuella! 👨‍💻 Bem-vindo ao meu perfil do GitHub. Aqui você encontrará alguns do meus projetos.
 
 ## Sobre Mim
 
